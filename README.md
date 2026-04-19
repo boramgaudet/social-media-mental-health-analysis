@@ -28,6 +28,3 @@ Social media and mental health dataset (Kaggle) — 8,000 individual survey resp
 
 ## About
 This was a group project completed during my MSBA coursework at UC Irvine. I contributed to EDA and independently built a classification tree model in addition to the team's linear regression and random forest models.
-
-## Files
-- `/slides/social_media_depression_slides.pdf` — final presentation deck
